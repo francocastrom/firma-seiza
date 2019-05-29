@@ -1,2 +1,2 @@
 # firma-seiza
-Firma de la Empresa Seiza
+Firma de correo para la Empresa Seiza 
